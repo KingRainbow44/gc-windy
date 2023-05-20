@@ -5,3 +5,7 @@ riderModule.iml
 /_ReSharper.Caches/
 
 lua/
+
+x64/
+.vs/
+.idea/
